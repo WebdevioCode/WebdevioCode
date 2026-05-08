@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Coding Labs  
 
-💻 **Aspiring Full Stack Developer** 🚀 Building, learning, and leveling up every day  
-
 ---
 
 ## 🛠️ Skills
@@ -15,9 +13,10 @@
 </p>
 
 ### 📚 Currently Learning
+javascript soon!!!
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+ <!---<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> !--->
   <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" height="40"/>
 </p>
 
@@ -40,13 +39,3 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodingLabsCode&show_icons=true&theme=tokyonight&hide_border=true&show_rank=true&hide=issues,prs" />
-
----
-
-## 🎯 Goals
-🔥 Become a **Full Stack Developer** ⚡ Learn modern JavaScript frameworks  
-🌍 Build real-world projects  
-
----
-
-✨ *Always open to suggestions and collabs!* </div>
