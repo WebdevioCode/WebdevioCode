@@ -13,19 +13,19 @@ ________________________________________________________________________________
 </pre>
 
 ---
-### 💡 Programming Skills
+### Programming Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png" height="40" alt="Lua" /> 
 </p>
 
-### 💡 Markup Skills
+### Markup Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
 </p>
 
-### 📚 Learning Next
+### Learning Next
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" /> -->
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p>
   <a href="https://www.tiktok.com/@.codinglabs" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" alt="TikTok" />
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodingLabsCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
