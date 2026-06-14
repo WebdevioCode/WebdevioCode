@@ -19,12 +19,12 @@ ________________________________________________________________________________
 <tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"><br>
-HTML5
+HTML
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"><br>
-CSS3
+CSS
 </td>
 
 <td align="center">
