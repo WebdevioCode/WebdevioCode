@@ -55,17 +55,23 @@ Windows
 ---
 
 ## Connect With Me
-<p>
-  <a href="https://www.tiktok.com/@.codinglabs" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" alt="TikTok" />
-  </a>
-  <a href="https://discord.com/users/1172633652740505672" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="40" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@Codinglabs-h6l" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" alt="YouTube" />
-  </a>
+
+<p align="center">
+
+<a href="https://www.tiktok.com/@.codinglabs">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/1172633652740505672">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Codinglabs-h6l">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </p>
+
 
 ---
 
