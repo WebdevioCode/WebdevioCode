@@ -78,10 +78,10 @@ Windows
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodingLabsCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WebdevioCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=CodingLabsCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=WebdevioCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
