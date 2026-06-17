@@ -39,17 +39,6 @@ Python
 </td>
 </tr>
 
-<tr>
-<td colspan="2" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="70"><br>
-MacOS
-</td>
-
-<td colspan="2" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70"><br>
-Windows
-</td>
-</tr>
 </table>
 
 ---
