@@ -1,6 +1,6 @@
 ## Hello Welcome To My Page 👋
 
-## Socials
+### Socials
 <a href="https://www.tiktok.com/@webdev...io">
   <img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=96&background=%23000000&color=%23ffffff" alt="TikTok" width="48">
 </a>
