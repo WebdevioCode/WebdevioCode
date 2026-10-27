@@ -1,6 +1,7 @@
-## Hello Welcome To My Page 👋
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+Welcome+to+my+page+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### Socials
 <a href="https://www.tiktok.com/@webdev...io">
   <img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=96&background=%23000000&color=%23ffffff" alt="TikTok" width="48">
 </a>
@@ -9,21 +10,27 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=96&background=%23000000&theme=dark&color=%233b82f6" alt="Discord" width="48">
 </a>
 
----
+
+</div>
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind" alt="Python, C++,JavaScript,Html,Css,Tailwindcss"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind" alt="Python, C++,JavaScript,Html,Css,Tailwindcss"/>
+
+
+ ### Currently learning
+
+ <img src="https://skillicons.dev/icons?i=cpp" alt="c++"/>
+
+---
 
 ### Environments & Tools
 
 <img src="https://skillicons.dev/icons?i=apple,vscode,windows" alt="macOS, Visual Studio, Windows"/>
 
 ---
-## Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WebdevioCode&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-  <br />
   <img src="https://streak-stats.demolab.com/?user=WebdevioCode&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
