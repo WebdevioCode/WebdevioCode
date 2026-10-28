@@ -22,13 +22,10 @@
 
  <img src="https://skillicons.dev/icons?i=cpp" alt="c++"/>
 
----
-
 ### Environments & Tools
 
 <img src="https://skillicons.dev/icons?i=apple,vscode,windows" alt="macOS, Visual Studio, Windows"/>
 
----
 ### Stats
 
 <p align="center">
