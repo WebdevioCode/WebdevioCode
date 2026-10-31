@@ -10,24 +10,31 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=discord&size=96&background=%23000000&theme=dark&color=%233b82f6" alt="Discord" width="48">
 </a>
 
-
 </div>
 
 ### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind" alt="Python, C++,JavaScript,Html,Css,Tailwindcss"/>
 
+### Currently learning
 
- ### Currently learning
-
- <img src="https://skillicons.dev/icons?i=cpp" alt="c++"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="c++"/>
 
 ### Environments & Tools
 
 <img src="https://skillicons.dev/icons?i=apple,vscode,windows" alt="macOS, Visual Studio, Windows"/>
 
+<div align="center">
+
 ### Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WebdevioCode&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WebdevioCode&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
+<p align="center">
+  
+  [![GitHub Commits Badge](https://ghcommits.com/api/badge/WebdevioCode.svg)](https://ghcommits.com/u/WebdevioCode)
+  
+</p>
+
+</div>
