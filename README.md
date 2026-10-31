@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://www.readmecodegen.com/api/social-icon?name=apple&bg=%23000000&color=%23ffffff" alt="apple" width="48" height="48" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=Microsoft&bg=%23000000&color=%233b82f6" alt="Microsoft" width="48" height="48" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=microsoft&bg=%233b82f6&color=%23ffffff" alt="microsoft" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48" />
 </p>
 
